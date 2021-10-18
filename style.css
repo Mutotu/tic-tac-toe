@@ -1,0 +1,22 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: thick solid red;
+    margin: 10px;
+}
+
+#row {
+    display: inline-block;
+    margin: 0;
+    align-self: flex-start;
+}
+
+.x, .y {
+    display: none;
+}
+
+.on {
+    text-align: center;
+    margin: 5px;
+    font-size: 60px;
+}
